@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "envelope_id": "env_875db45ff72f4e70ba88",
+      "kind": "entry",
+      "path": "signals/2026/08/08/20260808T224156969Z-env_875db45ff72f4e70ba88.json",
+      "published_at": "2026-08-08T22:41:56.969+00:00",
+      "recipients": [
+        "sub_andre_walker"
+      ]
+    }
+  ],
+  "updated_at": "2026-08-08T22:41:56.979+00:00",
+  "v": 1
+}

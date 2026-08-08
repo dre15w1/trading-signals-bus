@@ -1,0 +1,11 @@
+{
+  "envelope_id": "env_875db45ff72f4e70ba88",
+  "kind": "entry",
+  "published_at": "2026-08-08T22:41:56.969+00:00",
+  "publisher": "andre",
+  "recipients": {
+    "sub_andre_walker": "dqDSffb4/p+LhRvUPIjo8nQ+BEieTPRLjStcZ1NU624ZQ4qk04qiuXQa1X0OVFpF8ymBULm/q8ohdKyqmQaGBmra27XLTbMS69TiVQZ4VMNFAe7XhycTmBz9fxL0FSz4dI77mmHrIKaBVtmlHaz8IHO6Q5Df9py1SzSRDVoV3RFqFbIVqdjOl/GCFSWXPOoyFBPsyN3nuJTTW9mKSer44IjyfqpAqpaLrnlTurWS+5rq45yahOjWmtN2xlE0exb95+6c+HJVZSfaTU5qm24+kJKYo3Zq6huX4pTnAjDArebFQWtu9kTqTjEpB0HzpMkNADth4PBUAN0oqY9N0ULg9Qizo8jYo36GC4vZ6bwIBjO1nRp+exdeVYiTAyOq274zKIXqbqpOuqPlvBzxQlKD1d8fN269b2NiMSe/eib+cB7oqzloX6tdGiFvBHELxRim8WWgpEsj2tC9IlYyzSiiGm5DHgm7dFHMDxtMg0P8xj5I2xjDVcKJpGsu9LLFZJzx3kZVlYYbkNgU7uHgam++Toqc75/bIKdfI95G52KrcAooTqwhB8z5dIaF0TnqBtjR5EPm6URpvsuEc9TFiymrztLzWoW17tCoke8GrRP3HRAYbTrnW37z1FfRmMtW/LM6mKYX3W8WeBLCk76ecMV0hm7v4ENayvcwj5g7laH0mLkYO0zawJUYPW23xiNg6MAqE082W1N4TAhxaaZys9CK3TaZ2nnDIAl/6kB9A/NdG1cBUZ17Iyy/YGnMUamUdMLScDsr41Ie+Jilb1LaIJMt"
+  },
+  "sig": "63E6H88TiHNKcC96ZYAHUObs3PVBz5DL6TLAWqvxQsfJeYpIgxixt5M+Q8eGwHYiaJuylD9zomJ4uPW/WcclCA==",
+  "v": 1
+}
