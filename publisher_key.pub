@@ -1,0 +1,8 @@
+{
+  "fingerprint": "8722-EE1C-6E2A-998D",
+  "note": "Pin this key in the agent at install and CONFIRM THE FINGERPRINT OUT OF BAND (read it back over the phone). Envelopes that do not verify against it must be refused.",
+  "publisher": "andre",
+  "updated_at": "2026-08-08T20:07:38.810+00:00",
+  "v": 1,
+  "verify_key": "R/pBLxrIXVo1HdmmurDujsL6cAnd9F4bC7nJendRRsg="
+}
