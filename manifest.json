@@ -18,8 +18,18 @@
         "sub_andre_test",
         "sub_andre_walker"
       ]
+    },
+    {
+      "envelope_id": "env_98c0173d5d464a2cbf58",
+      "kind": "exit",
+      "path": "signals/2026/08/10/20260810T002305881Z-env_98c0173d5d464a2cbf58.json",
+      "published_at": "2026-08-10T00:23:05.881+00:00",
+      "recipients": [
+        "sub_andre_test",
+        "sub_andre_walker"
+      ]
     }
   ],
-  "updated_at": "2026-08-10T00:23:03.690+00:00",
+  "updated_at": "2026-08-10T00:23:05.884+00:00",
   "v": 1
 }
