@@ -8,8 +8,18 @@
       "recipients": [
         "sub_andre_walker"
       ]
+    },
+    {
+      "envelope_id": "env_48eb1d2a69254095a1d0",
+      "kind": "entry",
+      "path": "signals/2026/08/10/20260810T002303686Z-env_48eb1d2a69254095a1d0.json",
+      "published_at": "2026-08-10T00:23:03.686+00:00",
+      "recipients": [
+        "sub_andre_test",
+        "sub_andre_walker"
+      ]
     }
   ],
-  "updated_at": "2026-08-08T22:41:56.979+00:00",
+  "updated_at": "2026-08-10T00:23:03.690+00:00",
   "v": 1
 }
