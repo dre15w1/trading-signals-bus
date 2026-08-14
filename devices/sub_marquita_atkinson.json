@@ -1,0 +1,10 @@
+{
+  "control_id": "link_ack:sub_marquita_atkinson:d4c64721b6f645fdb5b1",
+  "device_id": "sub_marquita_atkinson",
+  "kind": "link_ack",
+  "published_at": "2026-08-14T22:49:23.981+00:00",
+  "publisher": "andre",
+  "sealed": "t8PG8XWEH0NO0IHNMRQ48H4Uu/GiHZNRDcGqvYzrXkHjFtOynFVNFZCitCcEo6AhWxvw0fOyJ/Zd3II5lzk4DYiwBlD5Kyre8yA2wZvibYUkQ/4JwvH/7BMk8SKlkStZ+8c4H8EZkYJ27ucvPzxgGNAKgyI2HctzmXx9ZYL9w2F8a960511edOAZYjwWe+UuMPDlNcSqqGibRBMUhBfJWScOc7jD12ZOOk8HCgF73wb2zeDnxKJutEaLPEjJiPQtiOlfaUXpo+JJUGMj9QsqUqFJ1E6zM7xxUA4L7a7KA6/2ofEbDPFgBhtk1/j57Cu9KKZSOtqNUXPLkwj3H278H7pjvrU/vBffk+Ews9CuLRTG+ZnKQH1N58Qx4sDZbtPofJgl1jQiGtmJBtWPZghTL8yVkhMX2phl5iNhmxXQ4CliUciTc5ebidqQ",
+  "sig": "gai2FHm5MRTnleOYcVmZ21su1VX3ElfLLqx3eyhSHB4aHKaweMhbhbu50wZZt6Q4NWW3aTfl9Y1+z2dOSdPRBA==",
+  "v": 1
+}
