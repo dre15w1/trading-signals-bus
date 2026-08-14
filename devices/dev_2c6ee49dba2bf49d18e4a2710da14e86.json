@@ -1,0 +1,10 @@
+{
+  "control_id": "link_ack:dev_2c6ee49dba2bf49d18e4a2710da14e86:f39aa62a80414d23b659",
+  "device_id": "dev_2c6ee49dba2bf49d18e4a2710da14e86",
+  "kind": "link_ack",
+  "published_at": "2026-08-14T22:49:15.309+00:00",
+  "publisher": "andre",
+  "sealed": "cS9IuFrs4dvMRDIxtQUFxQzS+AIdsD1x031pOd5ksHB1d+Q/BNK3Ga4vjryEhYA3HBBtuC/GBQaOv1Tkzr0RKZBgUwYaq5HU67GrNQjwQT9m3IBHAdNlmRCblfqGmdBe9zAZ+Z6aF7YLRC6u3PNYiRkpcGtu9dzTjIdy7HJEb1MMYbRmPY0X/Cr2KJK4NB06rpcL0s9tggzvvCNJ1fKovONXmNOCv6WVw4UIop5QWQWVLb/QQs06CD98vivvTjZYJmwa6gmbrk3iuiRIvHb33+4ZmuWF4IivlVEBWszmrmLx6kavf+NMVHJNGOU/19SX6OqY/kfFMYc7aMCOl0mdIm0m3EgiPNpib5vyR7NqIf97CMtLpJaHlkcToIOg5mLFEFP8f6fGbjYVdUof+opHNX8TOrlTnW3Xk8Pv9JW0FQ8SUTiHJhIY/APXaHXo5Ky57PydjE7ZgRrkXGpNLX/F2v5o9hViSJUY",
+  "sig": "sIZQn6zIX+pcap6g+9oy+i0VHEQfBM+KGZ9QrlOGNwHzYgzuTzDtvjQI7NTEa9gxNAjhf08EUaptztyjt9ndAg==",
+  "v": 1
+}
