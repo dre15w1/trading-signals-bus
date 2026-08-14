@@ -1,0 +1,10 @@
+{
+  "control_id": "link_ack:sub_mike_edwards",
+  "device_id": "sub_mike_edwards",
+  "kind": "link_ack",
+  "published_at": "2026-08-14T17:03:51.744+00:00",
+  "publisher": "andre",
+  "sealed": "tSa4vBKFx+NJ6x9XdkfY0ZLPmIZ1g8E8NjBg64WKxGPrquq+2XmlAyz0gjKe0WdrrzXgTudVROG9kCRQbFt0ZxcBbMZHa83+jzzVJLQZBZQKp2HBfFp928XISxErxk0LCdcPuVW97uiFrlaYAbN309vlsoraSWirt0ka4o5ao4oatWcVywj77GMs+X7uoHFkZm53ZSN522iv5uIDfPL+Y4oVxydkUIyVq9kI21ET7p7L6gwVVfEmymDdwGgjJQQ1MX9RipeY0lZNIcELhmnWyHrYr0OdWQQ=",
+  "sig": "5lQRgv1dc0fl2ZcOBHaFI8towSBZtuuI9nXUsYX9eG7nzGLvGRdi2rqwfFQnCH/815c+qxfkxzwNj2kOueSRAQ==",
+  "v": 1
+}
