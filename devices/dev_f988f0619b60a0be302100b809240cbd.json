@@ -1,10 +1,10 @@
 {
-  "control_id": "link_ack:dev_f988f0619b60a0be302100b809240cbd:a374bdb446094aa3812b",
+  "control_id": "link_ack:dev_f988f0619b60a0be302100b809240cbd:604568d146294a72ae65",
   "device_id": "dev_f988f0619b60a0be302100b809240cbd",
   "kind": "link_ack",
-  "published_at": "2026-08-14T22:49:17.517+00:00",
+  "published_at": "2026-08-17T13:56:33.947+00:00",
   "publisher": "andre",
-  "sealed": "DxulBgVG6Tz2bvau8uKG3tD6aSHEKEfst1JrFp05wDivgsmXLKNpT+pyI2Pz2NKLj6+Eir5uMDPNjKgOlaxHFxU0N4ojKJ66ZBGLbFx21047hbTIOStJsYb5IWLwUOueY6Qk1BhH/cFN9+EBGysRDi2/cboDo8m79Yl8uCKKyj6G2k58b2ipbkmDAYDqr76DlHNdwPRtnEJoFJcT/hCaZa91FVoU6ieHgN/5lMgv4IayEy17vaTemEjcr3VQpu4AsB5W999s5UJklRGPnP8KLyKTGI3RUGpke5UyGnF/JEgi+6PZcpSwU++uSosHNyJtQ1exZsTagPG2rGNbPUMoA9t4Q7jpfAnqu3NerWpDEneLq2YEjwMnQvlnmPqHhJha1YJxgljOspV4ZJRwcppa2l/C6EmTpMXCvw1NNglzb6R0ms7ChWBGpca+5BKu9wCpnukgQS08fwI1ER4wZSfMlHJH/X6p9FId",
-  "sig": "Dn35/PpCCS2vP2IB/AFNiXrFZ47/mf+IZWQhetYL2cXscdpI7Ab88ZX/JOC+cegHTzPAhcKLIyoenldhi0knAA==",
+  "sealed": "Id0RtD1aFTkbsGZgvFxX0KMaiWfKr6p9asa02SclyBzv0MFryjklTN4DldoNdg3OnAObyLdLlLJhkQPCAxChTODr4XgYFGref4+9hmOWxFx7PhJw9zUKWfK8ZVzFykxBA6OMMNaLqEn9ONIKERChP0+rovnya13LvUu/YDJuiABb0ttUB8mWj1syTZcUxslmkgQeJqDubgeSgw1vtZEedBXiftVII7Mb2kS1RBoM6rbqyo10QVN+6mbdeQcJ6wrVjAHOxeYl7PJ0AyzKrDE0k9RCUqhsFHoHnvnGGTideypgdEJr1L9SDNQKRMSAw82leB4XCoyLeXmCvbPKp/XFguElC/3Zn92iSk91woxq0GhQl0pzgqRdcAvbd6/eaPrkGHuQByiPlcjoStW7XiD7gi+AZJmPjVt0xUrjeuY94Xu5X4/lciPLVM13",
+  "sig": "IDTOP53TsefxSxmPVH4zh6wh9gKAwRDsKiYE8t9vMAZ1KFelFClWaMYP+f2qV2hKGjuvQ5Qzpa1yGsOdjclbCg==",
   "v": 1
 }
