@@ -1,0 +1,10 @@
+{
+  "control_id": "link_ack:dev_5fd8a6c53b945a092b1506fc3949fceb:51da1e11921a4b789f5e",
+  "device_id": "dev_5fd8a6c53b945a092b1506fc3949fceb",
+  "kind": "link_ack",
+  "published_at": "2026-08-19T04:30:39.735+00:00",
+  "publisher": "andre",
+  "sealed": "5awbvgE52NF75yV3fsL2C4kyyFuMWRNR7W4oERnPVmAVlk0T+3OLkC6yNkPvF21BBGZxEw46szvJpuwI+zCvB2i8PvnVedRC9K/0LNrsMo08dZIVxdgJE/FAGRl8bo+SBCT12WftrfGdMempTluHeMDPzQ0ssIAOlsTgfqsE5iZTxyJX3xzSELynfTZg75kBEZv4xiK4diWTWZzwuYlMmMVAobCaoIRk0+DsMlZr942WYacjG84kOKX4cMrMmlOlHmQfU+YoZqRh9TspMo52znH6E4oATQ0IsYkIKEoQc81QW195wgz0uvDXnh2Mn+5sjnaydJdaZBy7R1yqx06G1B93Lvt6P/kBh9P8XAevQ7bOom393ck1NoAMG/vWXZhRXxwREkCF1051bH70L316Tv271JlgXVoLWjQE2GcyK3Dde+dV4xsMhFOO",
+  "sig": "YpULya/duKeE2K4glr22+MIh9FWn6JDjlyg5xRPJv7IdizV9KqFIQWsr6KANjkd/c2jjj+vlGGp9MFtJPzBaCw==",
+  "v": 1
+}
