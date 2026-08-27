@@ -2279,8 +2279,27 @@
         "sub_marquita_atkinson",
         "sub_mike_edwards"
       ]
+    },
+    {
+      "envelope_id": "env_exit_0434e689a90c2f61b0cd",
+      "kind": "exit",
+      "path": "signals/2026/08/27/20260827T140825039Z-env_exit_0434e689a90c2f61b0cd.json",
+      "published_at": "2026-08-27T14:08:25.039+00:00",
+      "recipients": [
+        "dev_2c6ee49dba2bf49d18e4a2710da14e86",
+        "dev_4b5d7533b9e794f24a0b02f6fdc1457d",
+        "dev_57c9009f199377f479c5a040c8a7dba1",
+        "dev_5fd8a6c53b945a092b1506fc3949fceb",
+        "dev_6ac09a5f6d93fccb43bd70e370ec5b47",
+        "dev_9984db1de18e9fe9298b195516ed25e2",
+        "dev_f988f0619b60a0be302100b809240cbd",
+        "sub_andre_garcia",
+        "sub_keem_g",
+        "sub_marquita_atkinson",
+        "sub_mike_edwards"
+      ]
     }
   ],
-  "updated_at": "2026-08-27T14:08:08.759+00:00",
+  "updated_at": "2026-08-27T14:08:25.055+00:00",
   "v": 1
 }
