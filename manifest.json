@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "envelope_id": "env_48eb1d2a69254095a1d0",
-      "kind": "entry",
-      "path": "signals/2026/08/10/20260810T002303686Z-env_48eb1d2a69254095a1d0.json",
-      "published_at": "2026-08-10T00:23:03.686+00:00",
-      "recipients": [
-        "sub_andre_test",
-        "sub_andre_walker"
-      ]
-    },
-    {
       "envelope_id": "env_98c0173d5d464a2cbf58",
       "kind": "exit",
       "path": "signals/2026/08/10/20260810T002305881Z-env_98c0173d5d464a2cbf58.json",
@@ -9736,8 +9726,28 @@
         "sub_mike_edwards"
       ],
       "wall_available": true
+    },
+    {
+      "envelope_id": "env_exit_477c2faad7e23125ab36",
+      "kind": "exit",
+      "path": "signals/2026/11/04/20261104T182430536Z-env_exit_477c2faad7e23125ab36.json",
+      "published_at": "2026-11-04T18:24:30.536+00:00",
+      "recipients": [
+        "dev_2c6ee49dba2bf49d18e4a2710da14e86",
+        "dev_4b5d7533b9e794f24a0b02f6fdc1457d",
+        "dev_57c9009f199377f479c5a040c8a7dba1",
+        "dev_5fd8a6c53b945a092b1506fc3949fceb",
+        "dev_6ac09a5f6d93fccb43bd70e370ec5b47",
+        "dev_9984db1de18e9fe9298b195516ed25e2",
+        "dev_f988f0619b60a0be302100b809240cbd",
+        "sub_andre_garcia",
+        "sub_keem_g",
+        "sub_marquita_atkinson",
+        "sub_mike_edwards"
+      ],
+      "wall_available": true
     }
   ],
-  "updated_at": "2026-11-04T18:11:16.749+00:00",
+  "updated_at": "2026-11-04T18:24:31.127+00:00",
   "v": 1
 }
