@@ -1,23 +1,6 @@
 {
   "entries": [
     {
-      "envelope_id": "env_f9cb269d61e4448b87ee",
-      "kind": "entry",
-      "path": "signals/2026/08/18/20260818T143738988Z-env_f9cb269d61e4448b87ee.json",
-      "published_at": "2026-08-18T14:37:38.988+00:00",
-      "recipients": [
-        "dev_2c6ee49dba2bf49d18e4a2710da14e86",
-        "dev_4b5d7533b9e794f24a0b02f6fdc1457d",
-        "dev_57c9009f199377f479c5a040c8a7dba1",
-        "dev_9984db1de18e9fe9298b195516ed25e2",
-        "dev_f988f0619b60a0be302100b809240cbd",
-        "sub_andre_garcia",
-        "sub_keem_g",
-        "sub_marquita_atkinson",
-        "sub_mike_edwards"
-      ]
-    },
-    {
       "envelope_id": "env_7bb32ca49a854fbc9216",
       "kind": "entry",
       "path": "signals/2026/08/18/20260818T143957619Z-env_7bb32ca49a854fbc9216.json",
@@ -9770,8 +9753,28 @@
         "sub_mike_edwards"
       ],
       "wall_available": true
+    },
+    {
+      "envelope_id": "env_exit_48446a15b54b7d8a5a90",
+      "kind": "exit",
+      "path": "signals/2026/11/05/20261105T153202954Z-env_exit_48446a15b54b7d8a5a90.json",
+      "published_at": "2026-11-05T15:32:02.954+00:00",
+      "recipients": [
+        "dev_2c6ee49dba2bf49d18e4a2710da14e86",
+        "dev_4b5d7533b9e794f24a0b02f6fdc1457d",
+        "dev_57c9009f199377f479c5a040c8a7dba1",
+        "dev_5fd8a6c53b945a092b1506fc3949fceb",
+        "dev_6ac09a5f6d93fccb43bd70e370ec5b47",
+        "dev_9984db1de18e9fe9298b195516ed25e2",
+        "dev_f988f0619b60a0be302100b809240cbd",
+        "sub_andre_garcia",
+        "sub_keem_g",
+        "sub_marquita_atkinson",
+        "sub_mike_edwards"
+      ],
+      "wall_available": true
     }
   ],
-  "updated_at": "2026-11-05T15:30:50.813+00:00",
+  "updated_at": "2026-11-05T15:32:03.205+00:00",
   "v": 1
 }
