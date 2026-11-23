@@ -1,10 +1,10 @@
 {
-  "control_id": "link_ack:dev_61aa840db0799fd6a09f11202f1ee5df:91adb5c9e5ba483db169",
+  "control_id": "link_ack:dev_61aa840db0799fd6a09f11202f1ee5df:0b4b009f724849a68ec5",
   "device_id": "dev_61aa840db0799fd6a09f11202f1ee5df",
   "kind": "link_ack",
-  "published_at": "2026-11-23T16:10:28.750+00:00",
+  "published_at": "2026-11-23T16:10:36.147+00:00",
   "publisher": "andre",
-  "sealed": "vivGEuiOqx8TtkW4vNzRSuvNfGBM/lU2X2x9D7os5XAiAzGfEZicQEfCQ8m1ocr0kdAWYOapKopSecsFj2MgfHDTC6Ui7/KKaVeIbBwdDpBXhVXZyJQh8S1dqbj9bzXIimks191zRd96UNLENTpsyNDbzuJUwrNLuewThyurQB+g0qmRiIeGav4CJeCgSDLhHrO1WzW04ZTXPvS9jmkMz7YQGykhjSlyi5I+YInPEnC+/UvaYsxArytLxYl/ccU8IIEy24TkRlJ9+GUHphg7DLIPIRY+Y/1kLvG2CijNZsQe/Vmz6P6lJakF4QxkDQVr1IUQZGyOwkqjbxZYTqjQTdXYDH0fgt/D62bXQYbY5UhN8E++zO/s4PvvJ3TdpclVKYnAe+xljuAQExwxZhkyb/OSACCthy/d+PjlmkV0Uargg6vNm9Z+83G1",
-  "sig": "V5OU/5JvqzZeqsRzGvQCcgdpnm58tbUfIbTDEqzrXg0JVZscvCA+HWmLi/XEF84oponF9ILpEp8t8FWEgbSkAQ==",
+  "sealed": "gHumXfez8WXlMbD+8f1aziHjrwvGesNewqm/V5YEeBYIsmuPImWTTY6ynw/G/0BHPRj5fQ+AzykxdcCjy9focsvwPRlouGs1w40QMiYTMzabt/frXn0oLswwERtMsWTEYpLZVSMTae/a/6lPzD62Ges/79u79IvhXDNv3w90HHlg9wKnrVbreN8ass6hbbqME90wQ22h1L170FIVPW/VUaM5B7DHHRpC9r7A/KYgKbTbvAbD70kYzWpk0pedwe4SQkpu39UdB8f1cqzqheUp3m6PFekvC6sWPrFzBx4FZ3BjKhm4Cjm/Ff5cJQ6DWnq5a/+cjDWL+bxvrxdWpCn9ubfY9ep7aZhPo3o79qsl/zjxpWmrKhCw8CiL0Rr3srnesGczDbUASpqRo4/dKquR3hlOcEyN6fPvLbKtnmiywzEQ+Zcq9dTExNmh",
+  "sig": "RuyBGyoRi7HaNZfNUPmplMwwD8P1mYitCpkRl6CxS9Pqn8euT2B1qwXEBbLJq0BEJtLej+z8m6BH0l3qQ82RCg==",
   "v": 1
 }
