@@ -1,0 +1,10 @@
+{
+  "control_id": "link_ack:dev_61aa840db0799fd6a09f11202f1ee5df:91adb5c9e5ba483db169",
+  "device_id": "dev_61aa840db0799fd6a09f11202f1ee5df",
+  "kind": "link_ack",
+  "published_at": "2026-11-23T16:10:28.750+00:00",
+  "publisher": "andre",
+  "sealed": "vivGEuiOqx8TtkW4vNzRSuvNfGBM/lU2X2x9D7os5XAiAzGfEZicQEfCQ8m1ocr0kdAWYOapKopSecsFj2MgfHDTC6Ui7/KKaVeIbBwdDpBXhVXZyJQh8S1dqbj9bzXIimks191zRd96UNLENTpsyNDbzuJUwrNLuewThyurQB+g0qmRiIeGav4CJeCgSDLhHrO1WzW04ZTXPvS9jmkMz7YQGykhjSlyi5I+YInPEnC+/UvaYsxArytLxYl/ccU8IIEy24TkRlJ9+GUHphg7DLIPIRY+Y/1kLvG2CijNZsQe/Vmz6P6lJakF4QxkDQVr1IUQZGyOwkqjbxZYTqjQTdXYDH0fgt/D62bXQYbY5UhN8E++zO/s4PvvJ3TdpclVKYnAe+xljuAQExwxZhkyb/OSACCthy/d+PjlmkV0Uargg6vNm9Z+83G1",
+  "sig": "V5OU/5JvqzZeqsRzGvQCcgdpnm58tbUfIbTDEqzrXg0JVZscvCA+HWmLi/XEF84oponF9ILpEp8t8FWEgbSkAQ==",
+  "v": 1
+}
